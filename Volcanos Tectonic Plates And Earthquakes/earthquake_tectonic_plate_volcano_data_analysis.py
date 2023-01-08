@@ -10,7 +10,7 @@ class Earth:
     def __init__(self):
         self.volcano_data = None
         self.eq_list = []
-        self.earth_map = folium.Map(location=[0, 0], tiles="Cartodb Positron", zoom_start=2)
+        self.earth_map = folium.Map(location=[0, 0], tiles="Tracker", zoom_start=2)
 
     def read_data(self):
         with open('Raw Data//volcano_location_data.json') as f:
