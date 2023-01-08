@@ -67,3 +67,15 @@ Screenshot
 -----------------------------
 
 ![](Volcanos%20Tectonic%20Plates%20And%20Earthquakes/Output/Screenshot%202023-01-08%20031928.png)
+
+Earthquake Detail 
+---------------------------------------------------------
+![](Volcanos%20Tectonic%20Plates%20And%20Earthquakes/Output/eq_ss.png)
+
+Indian Plate
+----------------------------------------------------------
+![](Volcanos%20Tectonic%20Plates%20And%20Earthquakes/Output/in_plate.png)
+
+Berren Island Volcano
+---------------------------------------------
+![](Volcanos%20Tectonic%20Plates%20And%20Earthquakes/Output/a_volcano.png)
