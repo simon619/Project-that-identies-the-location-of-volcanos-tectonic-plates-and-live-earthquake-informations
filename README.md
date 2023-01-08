@@ -1,4 +1,4 @@
-# Project-that-identies-the-location-of-volcanos-tectonic-plates-and-live-earthquake-informations
+# Track-volcanos-tectonic-plates-and-live-earthquake-location-with-python
 
 - Yellow == Earthquake locations
 - Red == Volcano locations
